@@ -3,3 +3,5 @@ uvicorn[standard]
 pydantic
 yfinance
 pandas
+notebook
+matplotlib
